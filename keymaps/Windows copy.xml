@@ -1,9 +1,24 @@
 <keymap version="1" name="Windows copy" parent="$default">
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="ExportToTextFile" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="alt o" />
+  </action>
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift alt a" />
   </action>
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
+  <action id="MethodUp" />
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="ShowNavBar">
+    <keyboard-shortcut first-keystroke="alt up" />
   </action>
   <action id="Vcs.Log.ShowAllAffected" />
   <action id="VcsHistory.ShowAllAffected" />
