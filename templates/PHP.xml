@@ -1,5 +1,5 @@
 <templateSet group="PHP">
-  <template name="_c" value="public function __construct($END$) {&#10;&#10;}" toReformat="true" toShortenFQNames="true">
+  <template name="_c" value="public function __construct($END$) {&#10;&#10;}" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
