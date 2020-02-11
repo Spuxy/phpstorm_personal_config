@@ -1,0 +1,37 @@
+<application>
+  <component name="IDEOM">
+    <option name="editorSetting">
+      <map>
+        <entry key="Default">
+          <value>
+            <EditorSetting />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="soundSetting">
+      <map>
+        <entry key="Project Close">
+          <value>
+            <SoundSetting />
+          </value>
+        </entry>
+        <entry key="Project Open">
+          <value>
+            <SoundSetting />
+          </value>
+        </entry>
+        <entry key="Run">
+          <value>
+            <SoundSetting />
+          </value>
+        </entry>
+        <entry key="Run Error">
+          <value>
+            <SoundSetting />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
