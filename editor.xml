@@ -22,6 +22,7 @@
       </map>
     </option>
     <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\b(todo|fixme)\b.*" />

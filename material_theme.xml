@@ -1,6 +1,7 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="isWizardShown" value="true" />
+    <option name="indicatorStyle" value="Dot" />
     <option name="accentColor" value="ab47bc" />
     <option name="selectedTheme" value="PALENIGHT" />
     <option name="userId" value="4f7c7269:16fc99b1686:-8000" />
