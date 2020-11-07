@@ -49,5 +49,8 @@
     <keyboard-shortcut first-keystroke="ctrl t" />
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
+  <action id="ServiceView.ActivateDockerServiceViewContributor">
+    <keyboard-shortcut first-keystroke="meta 4" />
+  </action>
   <action id="ViewSource" />
 </keymap>
